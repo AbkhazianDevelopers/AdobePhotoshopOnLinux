@@ -6,6 +6,12 @@
 chmod +x install.bash
 ```
 
+Запускаем (без суды)
+
+```bash
+bash install.bash
+```
+
 После установки, по пути `~/Desktop/adobephotoshop` будет лежать установщик AdobePhotoshop. 
 
 ![image](https://github.com/AbkhazianDevelopers/AdobePhotoshopOnLinux/assets/149709871/98ff4ebc-e075-47f1-9338-169f8574461d)
