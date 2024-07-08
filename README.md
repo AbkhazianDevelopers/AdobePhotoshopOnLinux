@@ -1,6 +1,6 @@
 # AdobePhotoshopOnLinux
 
-Выдаёт права доступу установщику.
+Выдаём права доступу установщику.
 
 ```bash
 chmod +x install.bash
