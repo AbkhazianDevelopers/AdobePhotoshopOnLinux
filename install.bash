@@ -11,7 +11,6 @@ check_and_install() {
       sudo apt-get update
       sudo apt-get install -y "$pkg"
     fi
-  done
 }
 
 show_license() {
